@@ -1,22 +1,19 @@
-# udacity_02_trivia_api
-
-## Introduction
-- a guessing game playground
+# Udacity_FSND_trivia_api
 
 ## Features:
 
 ## List
-- list all of the questions and answers
+Lists all of the questions and answers
 ![alt text](./assets/list.png)
 
 
 
 ## Add
-- add a new question
+Adds a new question
 ![alt text](./assets/add.png)
 
 ## Play
-- select a category and start quiz mode
+Selects a category and starts quiz mode
 ![alt text](./assets/play.png)
 
 # Endpoints
@@ -56,7 +53,7 @@ This will install all of the required packages we selected within the `requireme
 
 
 4. **Key Dependencies**
- - [Flask](http://flask.pocoo.org/)  is a lightweight backend microservices framework. Flask is required to handle requests and responses.
+ - [Flask](https://www.fullstackpython.com/flask.html)  is a lightweight backend microservices framework. Flask is required to handle requests and responses.
 
  - [SQLAlchemy](https://www.sqlalchemy.org/) is the Python SQL toolkit and ORM we'll use handle the lightweight sqlite database. You'll primarily work in app.py and can reference models.py. 
 
